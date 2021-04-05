@@ -13,7 +13,11 @@ namespace ActaulizarSeven.Controllers
         {
             int a = 1;
             string b;
+            string c;
+            
             b = a.ToString();
+            c = b;
+
             return View();
         }
     }
