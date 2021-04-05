@@ -12,7 +12,10 @@ namespace ActaulizarSeven.Conexiones
 
             string cadena = "";
             int b = 1;
+            string c;
+
             cadena = b.ToString();
+            c = cadena;
         }
         
 
