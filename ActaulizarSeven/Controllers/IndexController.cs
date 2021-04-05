@@ -20,6 +20,7 @@ namespace ActaulizarSeven.Controllers
             b = a.ToString();
             b = c;
             b = c;
+            b = a.ToString();
             return View();
         }
     }
