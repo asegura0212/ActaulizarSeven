@@ -15,7 +15,7 @@ namespace ActaulizarSeven.Conexiones
             string c;
 
             cadena = b.ToString();
-            c = cadena;
+            c = "la cadena de c " + cadena;
         }
         
 
